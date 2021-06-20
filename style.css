@@ -1,0 +1,35 @@
+table,th,td
+{
+ border: 2px solid white;
+ padding: 10px; 
+ margin:auto;
+ text-align: right;
+
+ 
+
+}
+th
+{
+color:white ;
+
+}
+.TableHeadens th
+{
+    background-color: #72A942;
+   
+}
+.GreenToneDark td
+{
+    background-color:#C7DEB3 ;
+  
+}
+.GreenToneLight td
+{
+ background-color:#E2EED9 ;
+
+}
+
+.Left
+{
+text-align: left;
+}
