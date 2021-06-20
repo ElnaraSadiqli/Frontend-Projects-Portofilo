@@ -1,35 +1,28 @@
-table,th,td
+center,p
 {
- border: 2px solid white;
- padding: 10px; 
- margin:auto;
- text-align: right;
-
+    
+    color: rgb(168, 166, 166);
+    font-size: 1.2rem;
+}
+a[target]
+{
+color: rgb(20, 20, 212);
+font-size: 1.2rem;
+}
+.formaction .header
+{
  
-
+  margin: 10% 10% ;
+ 
 }
-th
-{
-color:white ;
-
+.submitt{
+    font-size: 1rem;
+    padding-block: 1rem;
+    color: white;
+    background-color: #459B76;
+    
 }
-.TableHeadens th
+input:valid
 {
-    background-color: #72A942;
-   
-}
-.GreenToneDark td
-{
-    background-color:#C7DEB3 ;
-  
-}
-.GreenToneLight td
-{
- background-color:#E2EED9 ;
-
-}
-
-.Left
-{
-text-align: left;
+    border: 2px solid #459B76;
 }
